@@ -1,0 +1,211 @@
+{
+    "recommend": [
+        {
+            "imgsrc": "https://xuyouwg.github.io/react-demo/images/1.webp",
+            "num": "103.9万",
+            "id":"2492536378",
+            "text": "再见大侠：武侠小说泰斗金庸逝世"
+        },
+        {
+            "imgsrc": "https://xuyouwg.github.io/react-demo/images/2.webp",
+            "num": "193万",
+            "id":2470798714,
+            "text": "你放弃过一个爱了很久的人吗？"
+        },
+        {
+            "imgsrc": "https://xuyouwg.github.io/react-demo/images/3.webp",
+            "num": "133.9万",
+            "id":2440132136,
+            "text": "再见臧天朔，一路走好。"
+        },
+        {
+            "imgsrc": "https://xuyouwg.github.io/react-demo/images/4.webp",
+            "num": "187.6万",
+            "id":2400416766,
+            "text": "复古迷幻|无限慵懒的夏末秋初"
+        },
+        {
+            "imgsrc": "https://xuyouwg.github.io/react-demo/images/5.webp",
+            "num": "397.3万",
+            "id":371174745,
+            "text": "古琴‖清泠由木性 恬澹随人心"
+        },
+        {
+            "imgsrc": "https://xuyouwg.github.io/react-demo/images/6.webp",
+            "num": "144.4万",
+            "id":2341864198,
+            "text": "「伪治愈系Rap」你价值连城伤口的良药"
+        }
+    ],
+    "newMusic": [
+        {
+            "thide": "NEVER SURRENDER",
+            "sgalia": "(剧场版《魔法少女奈叶Detonation》主题曲 / 劇場版アニメ「魔法少女リリカルなのは Detonation」主題歌)",
+            "id":1320101062,
+            "sginfo": "水樹奈々-NEVER SURRENDER"
+        },
+        {
+            "thide": "扑朔迷离 (跑得快)",
+            "sgalia": "",
+            "id":1318879277,
+            "sginfo": "Lil Ghost小鬼-扑朔迷离 (跑得快)"
+        },
+        {
+            "thide": "The Fire",
+            "sgalia": "",
+            "id":1321382259,
+            "sginfo": "吉克隽逸-The Fire"
+        },
+        {
+            "thide": "别BB",
+            "sgalia": "",
+            "id":1321382275,
+            "sginfo": "CNBALLER-别BB"
+        },
+        {
+            "thide": "李扯火",
+            "sgalia": "",
+            "id":1321424209,
+            "sginfo": "李斯丹妮-李扯火"
+        },
+        {
+            "thide": "原来你也在这里",
+            "sgalia": "(电视剧《原来你还在这里》主题曲)",
+            "id":1320098329,
+            "sginfo": "周笔畅-原来你也在这里"
+        },
+        {
+            "thide": "钗头凤",
+            "sgalia": "(网剧《医妃难囚》片头曲)",
+            "id":1320098325,
+            "sginfo": "黄龄-钗头凤"
+        },
+        {
+            "thide": "Chain Reaction",
+            "sgalia": "",
+            "id":1320101383,
+            "sginfo": "崔开潮-Chain Reaction"
+        }
+    ],
+    "hotMusic": [
+        {
+            "sgtl": "沙漠骆驼",
+            "sghot": "u-hmsprt sghot",
+            "sgalia": "",
+            "info": "展展与罗罗 - 沙漠骆驼"
+        },
+        {
+            "sgtl": "可不可以",
+            "sghot": "u-hmsprt sghot",
+            "sgalia": "",
+            "info": "张紫豪 - 可不可以"
+        },
+        {
+            "sgtl": "年少有为",
+            "sghot": "",
+            "sgalia": "",
+            "info": "李荣浩 - 耳朵"
+        },
+        {
+            "sgtl": "盗将行",
+            "sghot": "u-hmsprt sghot",
+            "sgalia": "",
+            "info": "花粥 / 马雨阳 - 粥请客（二）"
+        },
+        {
+            "sgtl": "贝贝",
+            "sghot": "",
+            "sgalia": "",
+            "info": "李荣浩 - 耳朵"
+        },
+        {
+            "sgtl": "东西",
+            "sghot": "u-hmsprt sghot",
+            "sgalia": "",
+            "info": "林俊呈 - 东西"
+        },
+        {
+            "sgtl": "扑朔迷离 (跑得快)",
+            "sghot": "u-hmsprt sghot",
+            "sgalia": "",
+            "info": "Lil Ghost小鬼 - 扑朔迷离 (跑得快)"
+        },
+        {
+            "sgtl": "光年之外",
+            "sghot": "u-hmsprt sghot",
+            "sgalia": "(电影《太空旅客》中文主题曲)",
+            "info": "展展与罗罗 - 沙漠骆驼"
+        },
+        {
+            "sgtl": "Way Back Home",
+            "sghot": "",
+            "sgalia": "",
+            "info": "SHAUN - Take"
+        },
+        {
+            "sgtl": "不染",
+            "sghot": "u-hmsprt sghot",
+            "sgalia": "(电视剧《香蜜沉沉烬如霜》主题曲)",
+            "info": "毛不易 - 香蜜沉沉烬如霜 电视原声音乐专辑"
+        },
+        {
+            "sgtl": "去年夏天",
+            "sghot": "u-hmsprt sghot",
+            "sgalia": "",
+            "info": "王大毛 - 去年夏天"
+        },
+        {
+            "sgtl": "往后余生",
+            "sghot": "u-hmsprt sghot",
+            "sgalia": "(原唱：马良)",
+            "info": "王贰浪 - 往后余生"
+        },
+        {
+            "sgtl": "可能否",
+            "sghot": "u-hmsprt sghot",
+            "sgalia": "",
+            "info": "木小雅 - 可能否"
+        },
+        {
+            "sgtl": "一百万个可能",
+            "sghot": "",
+            "sgalia": "",
+            "info": "Christine Welch - 一百万个可能"
+        },
+        {
+            "sgtl": "寂寞烟火",
+            "sghot": "",
+            "sgalia": "",
+            "info": "朱婧汐JING - 以梦为马"
+        },
+        {
+            "sgtl": "侧脸",
+            "sghot": "",
+            "sgalia": "",
+            "info": "于果 - 侧脸"
+        },
+        {
+            "sgtl": "云烟成雨",
+            "sghot": "u-hmsprt sghot",
+            "sgalia": "(动画《我是江小白》片尾曲)",
+            "info": "房东的猫 - 云烟成雨"
+        }
+    ],
+    "seach": [
+        "李荣浩贝贝",
+        "昨日青空王一博",
+        "金庸",
+        "张杰新歌",
+        "花粥",
+        "不染",
+        "光年之外",
+        "歌神伯乐",
+        "Justin Bieber",
+        "凉生"
+    ],
+    "result":[
+        ["林俊杰","林俊杰 伟大的渺小","林俊杰翻唱", "林俊杰爱要怎么说出口","林俊杰live","林俊杰 期待爱"
+        ],
+        ["周杰伦","林俊杰","周杰伦等你下课","周杰伦 告白气球","周杰伦最虐我心的24首歌","周杰伦歌曲串烧"]
+    ]
+}
